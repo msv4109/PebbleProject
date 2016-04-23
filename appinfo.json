@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "hello_msg": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "maweixi@seas.upenn.edu",
+    "longName": "Eric's App",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Eric's App",
+    "uuid": "10cf07e0-06ca-4ddc-ab00-c12c1bf3f73f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
